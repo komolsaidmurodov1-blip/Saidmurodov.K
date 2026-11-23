@@ -121,10 +121,10 @@
 # print('word_shrift.docx saqlamdi')
 
 
-from openpyxl import Workbook
-wb = Workbook()
-ws = wb.active
-ws.title="O'quvchilar"
-ws['A1']='№'
-ws['B1']='Ism'
-ws['C1']=
+# from openpyxl import Workbook
+# wb = Workbook()
+# ws = wb.active
+# ws.title="O'quvchilar"
+# ws['A1']='№'
+# ws['B1']='Ism'
+# ws['C1']=
